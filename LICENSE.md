@@ -1,4 +1,4 @@
-# 
+# Premium AI Chatbot for Customer Support tools. Featuring neural-networks and object-detection — optimized for maximum performance.
 
 
 
